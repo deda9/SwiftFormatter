@@ -3,7 +3,7 @@ Ruby scrip to format swift
 
 run 
 ```Shell
-ruby "dicrectory path"
+ruby "dicrectory path which contain any swift file, coz it loops on each file and reformat it"
 ```
 
 before formatting
